@@ -1,0 +1,21 @@
+p {
+    text-align: justify;
+    font-size: 1.3em;
+}
+
+ul {
+    display:inline-block;
+    font-size: 1.3em;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2,5em;
+}
+body {
+    background-color: turquoise;
+}
+
+li {
+    list-style: circle ;
+}
